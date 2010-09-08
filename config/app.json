@@ -1,0 +1,8 @@
+{
+  "name" : "RDam",
+
+  "monitor_port" : 8888,
+  "tracking_port" : 8000,
+  "websocket_port" : 8080
+
+}
